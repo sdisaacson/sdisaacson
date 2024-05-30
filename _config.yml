@@ -21,8 +21,8 @@
 title: Scott Isaacson's Github.io Page
 email: scott@hitechlowlife.com
 description: Welcome to my playground
-baseurl: "/blog" # the subpath of your site, e.g. /blog
-url: "https://sdisaacson.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: /docs # the subpath of your site, e.g. /blog
+url: https://sdisaacson.github.io # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  sdisaacson
 
 # Build settings
